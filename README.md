@@ -1,2 +1,8 @@
 # ATBP
-another mod that adds moar random items
+
+<hr>
+
+**Another mod that adds moar random items.**
+
+<hr>
+
